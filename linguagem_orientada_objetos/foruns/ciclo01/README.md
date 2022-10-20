@@ -7,7 +7,7 @@ Existem vários tempos e definições nesse paradigma que, por muitas vezes, pod
 
 Seu trabalho consiste em, com apoio de pesquisas, sobretudo nos livros de nossa biblioteca virtual, encontrar a definição de instâncias e objetos na programação Orientada a Objetos. Feito isso, construa um código simples que mostre, na prática, como uma instância funciona criando uma classe chamada Felinos que deverá imprimir na tela um determinado tipo de felino do reino animal. Para isso, crie dois objetos para os tipos gato e leão.
 
-### Definicição de instância e objeto
+### Definição de instância e objeto
 
 **Instância:** criação iminente de um objeto. Ela permite a existência de um objeto na memória, sendo o objeto definido por uma classe. Ou seja, a instância representa um objeto à nível
 de código, possibilitando sua criação e manipulação.
