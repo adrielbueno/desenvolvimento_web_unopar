@@ -41,4 +41,4 @@ Se tudo der certo terá o seguinte resultado.
 
 # IMPORTANTE
 
-Certifique-se de que seu apache esteja configura para, no mínimo, a versão 7.4 do PHP.
+Certifique-se de que seu apache esteja configurado para, no mínimo, a versão 7.4 do PHP.
