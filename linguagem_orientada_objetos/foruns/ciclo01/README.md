@@ -11,6 +11,7 @@ Seu trabalho consiste em, com apoio de pesquisas, sobretudo nos livros de nossa 
 
 **Instância:** criação iminente de um objeto. Ela permite a existência de um objeto na memória, sendo o objeto definido por uma classe. Ou seja, a instância representa um objeto à nível
 de código, possibilitando sua criação e manipulação.
+
 **Objeto:** um molde que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto.
 
 # Como rodar o projeto
