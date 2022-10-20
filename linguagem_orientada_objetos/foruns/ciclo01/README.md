@@ -30,7 +30,7 @@ Caso nao seja, basta montar a url de acordo com o diretório usado para rodar ap
 
 Se tudo der certo terá o seguinte resultado.
 
-![](https://github.com/adrielbueno/desenvolvimento_web_unopar/linguagem_orientada_objetos/foruns/ciclo01/img/saida_index.png)
+![](https://github.com/adrielbueno/desenvolvimento_web_unopar/blob/main/linguagem_orientada_objetos/foruns/ciclo01/img/saida_index.png)
 
 # IMPORTANTE
 
